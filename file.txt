@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Modified Line 2
-=======
-Line 1
->>>>>>> parent of 43a36c4 (Add Line 2)
